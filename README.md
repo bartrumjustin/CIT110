@@ -1,18 +1,18 @@
 # CIT110
 <h3>Holds all the examples and projects I have done for my Associates Degree, specifically CIT110 C# programming</h3>
 
-<h2>Chapter 1</h2> : basic use of assigning types and console write lines with or without interpolation. 
+<h2>Chapter 1</h2>basic use of assigning types and console write lines with or without interpolation. 
 <br><a href="/Chapter1Ex1.cs"> Ex 1</a>
 <br><a href="/Chapter1Ex2.cs"> Ex 2</a>
 <br>
-<h2>chapter 2</h2> : Using Console.ReadLine and also Converting or Parsing Types, with Ex 3 using switch statements.
+<h2>Chapter 2</h2>Using Console.ReadLine and also Converting or Parsing Types, with Ex 3 using switch statements.
 <br>
 <a href="/Chapter2Ex1.cs"> Ex 1</a>
 <br>
 <a href="/Chapter2Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter2Ex3.cs"> Ex 3</a>
-<h2>Chapter 3</h2> : IF() statement use and utilizing operands.
+<h2>Chapter 3</h2>IF() statement use and utilizing operands.
 <br>
 <a href="/Chapter3Ex1.cs"> Ex 1</a>
 <br>
