@@ -19,3 +19,12 @@
 <a href="/Chapter3Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter3Ex3.cs"> Ex 3</a>
+<h2>Chapter 4</h2>For, while and if else loops, object generation (random number method) and array use
+<br>
+<a href="/Chapter4Ex1.cs"> Ex 1</a>
+<br>
+<a href="/Chapter4Ex2.cs"> Ex 2</a>
+<br>
+<a href="/Chapter4Ex3.cs"> Ex 3</a>
+<br>
+<a href="/Chapter4Ex4.cs"> Ex 4</a>
