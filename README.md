@@ -28,3 +28,10 @@
 <a href="/Chapter4Ex3.cs"> Ex 3</a>
 <br>
 <a href="/Chapter4Ex4.cs"> Ex 4</a>
+<h2>Chapter 5</h2>method creating and calling, returning and access modifying.
+<br>
+<a href="/Chapter5Ex1.cs"> Ex 1</a>
+<br>
+<a href="/Chapter5Ex2.cs"> Ex 2</a>
+<br>
+<a href="/Chapter5Ex3.cs"> Ex 3</a>
