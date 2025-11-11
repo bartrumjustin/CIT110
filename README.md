@@ -35,3 +35,11 @@
 <a href="/Chapter5Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter5Ex3.cs"> Ex 3</a>
+<h2>Chapter 6</h2>utilizing all previous lessons and also using arrays and lists to create functional programs
+<br>
+<a href="/Chapter6Ex1.cs"> Ex 1</a>
+<br>
+<a href="/Chapter6Ex2.cs"> Ex 2</a>
+<br>
+<a href="/Chapter6Ex3.cs"> Ex 3</a>
+
