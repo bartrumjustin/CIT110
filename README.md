@@ -42,4 +42,11 @@
 <a href="/Chapter6Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter6Ex3.cs"> Ex 3</a>
+<h2>Chapter 7</h2>Type methods to validate inputs 
+<br>
+<a href="/Ch7MathMethods.cs"> Ex 1</a>
+<br>
+<a href="/Ch7InputValidation.cs"> Ex 2</a>
+<br>
+<a href="/Chapter7PasswordValidationARevised.cs"> Ex 3</a>
 
