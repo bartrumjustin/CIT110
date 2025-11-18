@@ -48,5 +48,5 @@
 <br>
 <a href="/Ch7InputValidation.cs"> Ex 2</a>
 <br>
-<a href="/Chapter7PasswordValidationARevised.cs"> Ex 3</a>
+<a href="/Chapter7PasswordValidationRevised.cs"> Ex 3</a>
 
