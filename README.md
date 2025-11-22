@@ -56,4 +56,25 @@
 <a href="/Chapter8Ex2.cs"> Ex 2</a>
 <br>
 <a href="/Chapter8Ex3.cs"> Ex 3</a>
+<h2>Chapter 9</h2>Creating and Using Classes *** a/b subsections are intended to be ran together ***
+<br>
+<a href="/Ch9Ex1PrivateAccess.cs"> Ex 1</a>
+<br>
+<a href="/Ch9Ex2PublicAccess.cs"> Ex 2</a>
+<br>
+<a href="/Ch9Ex3MixedAccess.cs"> Ex 3</a>
+<br>
+<a href="/Ch9Ex4Creatures.cs"> Ex 4</a>
+<br>
+<a href="/Ch9Ex5Shoppers.cs"> Ex 5</a>
+<br>
+<a href="/BankingBalance.cs"> Ex 6a</a>
+<br>
+<a href="/Banking.cs"> Ex 6b</a>
+<br>
+<a href="/RiceKrispies.cs"> Ex 7a</a>
+<br>
+<a href="/Cereal.cs"> Ex 7b</a>
+
+
 
